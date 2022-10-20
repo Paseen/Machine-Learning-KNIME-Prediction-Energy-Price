@@ -1,10 +1,19 @@
 # Progetto-Machine-Learning
 
-For this project me and three colleagues of mine tried to forecast the price of energy in Spain using the KNIME platform, training four different models, Random Forest, XGBoost, ARIMA and LSTM, using hourly historical data from 2015 to 2018, and then we compared their performances. 
+For this project me and three colleagues of mine tried to forecast the price of energy in Spain using the KNIME platform, training four different models, Random Forest, XGBoost, ARIMA and LSTM on hourly energy production data of different sources from 2015 to 2018, and then we compared their performances. 
 
 # Data cleaning
+From the dataset all the columns containing only zeros and missing values have been removed.
 
 # Random Forest and XGBoost
+The dataset has been divided in training set, which was composed by the 67% of the whole records, and the test set, composed by the remaining percentage. Afterwards a 10-folds cross validation has been performed. 
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
+
 
 # ARIMA and LSTM
 
