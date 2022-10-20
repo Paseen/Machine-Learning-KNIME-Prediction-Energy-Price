@@ -7,8 +7,8 @@ From the dataset all the columns containing only zeros and missing values have b
 
 # Random Forest and XGBoost
 The dataset has been divided in training set, which was composed by the 67% of the whole records, and the test set, composed by the remaining percentage. Afterwards a 10-folds cross validation has been performed. 
-<br>
-The best performing model was XGBoost, and its performaces were: 
+<br><br>
+The best performing model was XGBoost, and its performaces on the test set were: 
 
 |   |XGBOOST   |
 |---|---|
@@ -20,6 +20,12 @@ The best performing model was XGBoost, and its performaces were:
 
 # ARIMA and LSTM
 
+|   | ARIMA  |LSTM   |
+|---|---|---|
+|MAE   |10.59   |3.99   |
+|RMSE   |12.79   |4.74   |
+|MAPE   |0.18   |0.06 |
 
+For a more in-depth analysis of our group project check the "report.pdf" file in this repository.
 
 Credits to: Greta Gravina, Alessio Pasinato, Niccolò Rocchi, Marco Scatassi.
