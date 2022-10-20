@@ -2,6 +2,7 @@
 
 For this project me and three colleagues of mine tried to forecast the price of energy in Spain using the KNIME platform, training four different models, Random Forest, XGBoost, ARIMA and LSTM on hourly energy production data of different sources from 2015 to 2018, and then we compared their performances. 
 
+- Check out our [pdf report](https://github.com/Paseen/Progetto-Machine-Learning/blob/main/Report.pdf) 
 # Data cleaning
 From the dataset all the columns containing only zeros and missing values have been removed.
 
