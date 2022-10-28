@@ -27,6 +27,5 @@ The best performing model was XGBoost, and its performaces on the test set were:
 |RMSE   |12.79   |4.74   |
 |MAPE   |0.18   |0.06 |
 
-For a more in-depth analysis of our group project check the "report.pdf" file in this repository.
 
 Credits to: Greta Gravina, Alessio Pasinato, Niccolò Rocchi, Marco Scatassi.
